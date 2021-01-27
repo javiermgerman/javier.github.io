@@ -1,4 +1,4 @@
-"Player,""Number_seasons"",""Games_played"",""At_bats"",""Runs"",""Hits"",""Doubles"",""Triples"",""Home_runs"",""RBIs"",""Walks"",""Strikeouts"",""Batting_average"",""On_base_pct"",""Slugging_pct"",""Fielding_ave"",""Position"",""Hall_of_Fame"""
+"Player","Number_seasons","Games_played","At_bats","Runs","Hits","Doubles","Triples","Home_runs","RBIs","Walks","Strikeouts","Batting_average","On_base_pct","Slugging_pct","Fielding_ave","Position","Hall_of_Fame""
 HANK_AARON,23,3298,12364,2174,3771,624,98,755,2297,1402,1383,0.305,0.377,0.555,0.98,Outfield,1
 JERRY_ADAIR,13,1165,4019,378,1022,163,19,57,366,208,499,0.254,0.294,0.347,0.985,Second_base,0
 SPARKY_ADAMS,13,1424,5557,844,1588,249,48,9,394,453,223,0.286,0.343,0.353,0.974,Second_base,0
